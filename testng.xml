@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+
+    <test verbose="2"
+          name="D:/004_Projects/Selenium/IntelliJ IDEA/Selenium_Maven_demoblaze-SandBox_001">
+        <classes>
+            <class name="SignUp"/>
+            <class name="Login"/>
+            <class name="Cart"/>
+        </classes>
+    </test>
+</suite>
